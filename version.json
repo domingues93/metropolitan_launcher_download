@@ -1,6 +1,6 @@
 {
-  "changelog": "Deploy automático v1.2.7 - 2026-06-25 18:35",
+  "download_url": "https://github.com/domingues93/metropolitan_launcher_download/raw/refs/heads/master/MetropolitanRP.Launcher-win-Setup.exe",
+  "latest_version": "1.2.8",
   "mandatory": false,
-  "latest_version": "1.2.7",
-  "download_url": "https://github.com/domingues93/metropolitan_launcher_download/raw/refs/heads/master/MetropolitanRP.Launcher-win-Setup.exe"
+  "changelog": "Deploy automático v1.2.8 - 2026-06-29 01:02"
 }
